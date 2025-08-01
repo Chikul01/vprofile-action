@@ -22,7 +22,7 @@ jobs:
       - name: Set Java 11
         uses: actions/setup-java@v3
         with:
-          disributor: 'temurin' # See 'Supported distributions' for avilable 
+          disribution: 'temurin' # See 'Supported distributions' for avilable 
           java-version: '11'
 
       # Setup sonar-scanner
